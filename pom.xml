@@ -80,6 +80,7 @@
                 </executions>
             </plugin>
         </plugins>
+        <finalName>lab2</finalName>
     </build>
 
 </project>
